@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = ✰ RAHMANI MD ✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 or || WhattsApp Group = https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
 Chat me 👉 https://wa.me/255693629079
