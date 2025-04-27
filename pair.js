@@ -65,12 +65,12 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = ✰𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃 ✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝗼𝗿 || WhattsApp group = https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
+𝗼𝗿 || WhattsApp group = https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj
+
 chat me 👉https://wa.me/255693629079
-or 👇👇
-Chat me 👉 https://wa.me/255759635837
+
 𝕋ℍ𝕀𝕊 𝕀𝕊 ℝ𝔸ℍ𝕄𝔸ℕ𝕀-𝕄𝔻-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2025-2026 𝗥𝗔𝗛𝗠𝗔𝗡𝗜-𝐅𝐑𝐎𝐌-𝗗𝗘𝗧𝗘𝗦𝗧𝗘𝗗*
